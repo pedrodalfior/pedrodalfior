@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">- ☕ Java Developer | Spring Boot & Camunda BPM <br>- Academic Software Engineering UNIVAG 👨‍🎓</p>
+<p align="left">- ☕ Java Developer | Spring Boot & Camunda BPM <br>- Academic Software Engineering 👨‍🎓</p>
 
 ###
 
